@@ -1,0 +1,21 @@
+[submodule "openicf-license"]
+	path = openicf-license
+	url = git@github.com:Athesys/openicf-license.git
+[submodule "openicf-maven-plugin"]
+	path = openicf-maven-plugin
+	url = git@github.com:Athesys/openicf-maven-plugin.git
+[submodule "openicf-groovy-connector"]
+	path = openicf-groovy-connector
+	url = git@github.com:Athesys/openicf-groovy-connector.git
+[submodule "openicf-ssh-connector"]
+	path = openicf-ssh-connector
+	url = git@github.com:Athesys/openicf-ssh-connector.git
+[submodule "openicf-connector-archetype"]
+	path = openicf-connector-archetype
+	url = git@github.com:Athesys/openicf-connector-archetype.git
+[submodule "openicf-kerberos-connector"]
+	path = openicf-kerberos-connector
+	url = git@github.com:Athesys/openicf-kerberos-connector.git
+[submodule "openicf-java-framework"]
+	path = openicf-java-framework
+	url = git@github.com:Athesys/openicf-java-framework.git
