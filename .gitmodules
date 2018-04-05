@@ -10,6 +10,18 @@
 [submodule "openicf-java-framework"]
 	path = openicf-java-framework
 	url = git@github.com:Athesys/openicf-java-framework.git
-[submodule "forgerock-parent"]
-	path = forgerock-parent
-	url = git@github.com:Athesys/forgerock-parent.git
+[submodule "openicf-groovy-connector"]
+	path = openicf-groovy-connector
+	url = git@github.com:Athesys/openicf-groovy-connector.git
+[submodule "openicf-xml-connector"]
+	path = openicf-xml-connector
+	url = git@github.com:Athesys/openicf-xml-connector.git
+[submodule "openicf-csvfile-connector"]
+	path = openicf-csvfile-connector
+	url = git@github.com:Athesys/openicf-csvfile-connector.git
+[submodule "openicf-ldap-connector"]
+	path = openicf-ldap-connector
+	url = git@github.com:Athesys/openicf-ldap-connector.git
+[submodule "openicf-databasetable-connector"]
+	path = openicf-databasetable-connector
+	url = git@github.com:Athesys/openicf-databasetable-connector.git

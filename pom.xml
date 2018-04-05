@@ -1,19 +1,19 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>org.forgerock.openicf</groupId>
-  <artifactId>openicf-project</artifactId>
-  <version>5.5.0-SNAPSHOT</version>
-  <packaging>pom</packaging>
-  
-  <modules>
-	<module>forgerock-parent</module>
-	<module>openicf-license</module>	
-	<module>openicf-maven-plugin</module>	
-	<module>openicf-java-framework</module>	
-	<!-- <module>openicf-connector-archetype</module> -->
-	<!-- <module>openicf-groovy-connector</module> -->
-	<!-- <module>openicf-kerberos-connector</module> -->
-	<!-- <module>openicf-ssh-connector</module>	 -->
-  </modules>
+<project 
+    xmlns="http://maven.apache.org/POM/4.0.0" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.forgerock.openicf</groupId>
+    <artifactId>openicf-project</artifactId>
+    <version>5.5.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>openicf-license</module>
+        <module>openicf-maven-plugin</module>
+        <module>openicf-java-framework</module>
+        <module>openicf-ssh-connector</module>
+        <module>openicf-groovy-connector</module>
+        <module>openicf-xml-connector</module>
+        <module>openicf-ldap-connector</module>
+	<module>openicf-databasetable-connector</module>
+    </modules>
 </project>
