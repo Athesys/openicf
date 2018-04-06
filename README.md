@@ -20,4 +20,4 @@
 * **cd openicf**
 * **mvn clean install -f ../forgerock-parent/pom.xml**
 * **mvn clean install -f ../opendj/pom.xml**
-* **mvn clean install**
+* **mvn clean install -DskipTests**
