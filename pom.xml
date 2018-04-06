@@ -15,5 +15,6 @@
         <module>openicf-xml-connector</module>
         <module>openicf-ldap-connector</module>
 	<module>openicf-databasetable-connector</module>
+	<module>openicf-csvfile-connector</module>
     </modules>
 </project>
