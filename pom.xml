@@ -16,5 +16,6 @@
         <module>openicf-ldap-connector</module>
 	<module>openicf-databasetable-connector</module>
 	<module>openicf-csvfile-connector</module>
+	<module>openicf-kerberos-connector</module>
     </modules>
 </project>

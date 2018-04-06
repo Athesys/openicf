@@ -25,3 +25,6 @@
 [submodule "openicf-databasetable-connector"]
 	path = openicf-databasetable-connector
 	url = git@github.com:Athesys/openicf-databasetable-connector.git
+[submodule "openicf-kerberos-connector"]
+	path = openicf-kerberos-connector
+	url = git@github.com:Athesys/openicf-kerberos-connector.git
