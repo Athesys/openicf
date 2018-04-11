@@ -4,10 +4,6 @@
 
 ## Build Environment
 
-### Windows
-* **maven 3.5.3**
-* **OracleJDK 1.8.0_161**
-
 ### Linux
 * **maven 3.3.9**
 * **OpenJDK 1.8.0_162**
